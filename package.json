@@ -13,12 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenmickles/heroku-redirect.git"
+    "url": "git+https://github.com/tilr-corp/tilr-redirect.git"
   },
-  "author": "Ken Mickles <ken@37i.net>",
-  "license": "MIT",
+  "author": "Audee Velasco <avelasco@tilr.com>",
   "bugs": {
-    "url": "https://github.com/kenmickles/heroku-redirect/issues"
+    "url": "https://github.com/tilr-corp/tilr-redirect/issues"
   },
-  "homepage": "https://github.com/kenmickles/heroku-redirect#readme"
+  "homepage": "https://github.com/tilr-corp/tilr-redirect#readme"
 }

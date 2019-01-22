@@ -1,6 +1,6 @@
 {
-  "name": "Heroku Redirect",
-  "repository": "https://github.com/kenmickles/heroku-redirect",
+  "name": "Audee Velasco",
+  "repository": "https://github.com/tilr-corp/tilr-redirect",
   "env": {
     "NEW_BASE_URL": {
       "description": "Redirect all requests to this URL.",
